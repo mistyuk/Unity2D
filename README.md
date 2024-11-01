@@ -79,7 +79,7 @@ Add `FlexibleParallax.cs` or `GlobalParallax.cs` to a camera GameObject. Group y
 Contributions are welcome! Feel free to submit pull requests, report issues, or suggest new features to improve the functionality of these scripts.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project has no license, feel free to do whatever you like with the source code. 
 
 ## Acknowledgements
 Special thanks to the Unity developer community for inspiration and support in creating these tools.
